@@ -4,4 +4,6 @@
 ![alt text](https://github.com//Goldas99/DW_Matrix_car/blob/main/images/Plots.png?raw=true)
 - w notatniku day3_simple_model.ipynb został wytrenowany pierwszy model 
 - w notatniku day4.ipynb sprawdzona została ważność cech przy użyciu biblioteki <b> eli5 </b>
+![alt text](https://github.com//Goldas99/DW_Matrix_car/blob/main/images/FeatureImportance.png?raw=true)
 - w notatniku day5.ipynb została użyta biblioteka <b> hyperopt </b> do znalezienia hyperparametow dla modelu XGBoost  
+![alt text](https://github.com//Goldas99/DW_Matrix_car/blob/main/images/Hyperopt.png?raw=true)
